@@ -61,7 +61,7 @@
 <p align="center">
   
 <!--<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="hhttps://www.linkedin.com/in/cristhian-quina-237ab4304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/cristhian-quina-237ab4304/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:quina.dev94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!--
