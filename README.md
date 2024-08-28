@@ -13,7 +13,7 @@
 
 💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos..\
 🎓 &nbsp;Actualmente estoy estudiando Desarrollo Full Stack .\
-💬 &nbsp;No dudes en comunicarte conmigo para realizar consultoría y voluntariado pro bono, o simplemente para tener una discusión interesante.\
+💬 &nbsp;No dudes en comunicarte conmigo para realizar consultoría .\
 ✉️ &nbsp;¡Puedes enviarme un correo electrónico a quina.dev94@gmail.com! Intentaré responder tan pronto como pueda.\
 📄 &nbsp;Eche un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
